@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ConvertToUTF8",
+		"Emmet",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"PackageResourceViewer",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"TortoiseSVN"
+	]
+}

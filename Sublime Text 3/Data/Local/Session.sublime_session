@@ -1,0 +1,951 @@
+{
+	"folder_history":
+	[
+		"/F/code/git/MySite",
+		"/F/code/SVN/dsebackup/workspace/webbackground/php",
+		"/F/code/SVN/dsebackup/basicfunction/include"
+	],
+	"last_version": 3143,
+	"last_window_id": 25,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 527.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"e",
+						"end"
+					],
+					[
+						"top",
+						"top"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 170.0,
+				"last_filter": "git status",
+				"selected_items":
+				[
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"git",
+						"Git: Tag"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: list",
+						"Package Control: List Packages"
+					],
+					[
+						"remo",
+						"Package Control: Remove Channel"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Unmanaged Packages"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"ssjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"Package Control: li",
+						"Package Control: List Unmanaged Packages"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"mdp",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"view",
+						"View: Toggle Menu"
+					],
+					[
+						"packagere",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 444.0
+			},
+			"console":
+			{
+				"height": 488.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/Program Files/Sublime Text 3/Data/Packages/SublimeGit/SublimeGit.sublime-settings",
+				"/D/Program Files/Sublime Text 3/Data/Packages/User/SublimeGit.sublime-settings",
+				"/D/Program Files/Sublime Text 3/Data/Packages/User/Package Control.sublime-settings",
+				"/C/Users/Administrator/Desktop/基本操作/加密解密命令.txt",
+				"/F/code/git/MySite/index.html",
+				"/C/Users/Administrator/Desktop/test.html",
+				"/C/Users/Administrator/Desktop/test.js",
+				"/F/code/SVN/dsebackup/workspace/webbackground/php/login.php",
+				"/F/code/SVN/dsebackup/workspace/webbackground/php/index.php",
+				"/F/code/SVN/dsebackup/workspace/webbackground/php/test.js",
+				"/F/code/SVN/dsebackup/workspace/webbackground/php/test.html",
+				"/C/Users/Administrator/Desktop/clipboard.txt",
+				"/C/Users/Administrator/Desktop/xfs结构.txt",
+				"/F/code/SVN/dsebackup/product/dseserver/sql/dse_db.sql",
+				"/C/Users/Administrator/Desktop/oracle一致性点获取办法.md",
+				"/F/code/SVN/dsebackup/product/dseserver/package/common.sh",
+				"/D/360安全浏览器下载/frp_0.16.1_windows_amd64/frpc_full.ini",
+				"/C/Users/Administrator/Desktop/record/oracle表空间备份方案更改.txt",
+				"/F/code/SVN/dsebackup/workspace/oracle_related/plsql/insert_data.sql",
+				"/F/code/SVN/dsebackup/workspace/oracle_related/plsql/add_datafile_to_tablespace.sql",
+				"/F/code/SVN/dsebackup/workspace/oracle_related/plsql/create_tablespace.sql",
+				"/F/code/SVN/dsebackup/workspace/webfront_end/css/box_model/margin01.html",
+				"/F/code/SVN/dsebackup/workspace/webfront_end/css/position1.html",
+				"/F/code/SVN/dsebackup/workspace/webbackground/php/oci8_test1.php",
+				"/F/code/SVN/dsebackup/workspace/webfront_end/javascript/console.html",
+				"/F/code/SVN/dsebackup/product/dseserver/package/dse_publish_common.sh",
+				"/F/shareftp/dse_release/v2.0/dseserver/dsedb_conn.sh",
+				"/D/Program Files/Sublime Text 3/Data/Packages/MarkdownEditing/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/Desktop/oracle一致性点获取办法.txt",
+				"/C/Users/Administrator/Desktop/test.md",
+				"/C/Users/Administrator/Desktop/plsql/create_user.sql",
+				"/C/Users/Administrator/Desktop/wall/Shadowsocks-4.0.7/gui-config.json",
+				"/D/360安全浏览器下载/aida64extreme/aida64extreme595/aida64.exe",
+				"/F/code/SVN/dsebackup/basicfunction/include/bf_ado_database_op.h",
+				"/D/Program Files/Sublime Text 3/Data/Packages/Theme - Default/Default.sublime-theme",
+				"/D/Program Files/Sublime Text 3/Data/Packages/Package Control/Package Control.sublime-settings"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\": ",
+					"port",
+					"    //\"",
+					"\",",
+					"false",
+					"\":",
+					"confirm_overwrite_newer",
+					"    \"",
+					"confirm_overwrite_newer",
+					"sublime_packages",
+					"wbond",
+					"user",
+					"password",
+					"    \"",
+					"username",
+					"3389",
+					"增量备份55200",
+					"app",
+					"privileges",
+					"all",
+					"tab_label",
+					"menu"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 36.0
+			},
+			"input":
+			{
+				"height": 48.0
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 302.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git-init":
+			{
+				"height": 180.0
+			},
+			"output.markdown":
+			{
+				"height": 45.0
+			},
+			"output.sftp":
+			{
+				"height": 180.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 68.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 301.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 967.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"e",
+						"end"
+					],
+					[
+						"top",
+						"top"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/F/code/git/MySite/index.html",
+					"settings":
+					{
+						"buffer_size": 101,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/code/git/MySite/sftp-config.json",
+					"settings":
+					{
+						"buffer_size": 1356,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "2961\nhost ip:192.168.2.181\nhost port:35001\ntoken :9a477031-c5d7-4592-85cd-1051f90ed3b5\nca :null\ntarget file:/POME/datastore_3/vol/vol_69365FFCDD694F2EBC42DE7925EBE0F3/snap_3931AFCD51CB491B88A82E7928C34D07.pome\n\nsector number per block:4096\nblock number:15360\nblock(bit set 1) number:888\nbitmap length:3840\n\n2962\nhost ip:192.168.2.181\nhost port:35001\ntoken :63cc42b3-51d1-4a93-bcb3-f67dfd71d65c\nca :null\ntarget file:/POME/datastore_3/vol/vol_ACFB231192CA4C378520AC050435A7B4/snap_FD469E8F5BBE4B3D823E9C1C459133D8.pome\n\nsector number per block:4096\nblock number:1024\nblock(bit set 1) number:959\nbitmap length:256\n\n\n2968 2969\n\n/service/sites/433D07B0/vms/i-00000003/snapshots/559\n\n\nfullsnap chgID 8\nincresnap chgID 9\n\nincresnap2 chgID 10\n\n\nSELECT    'alter database  rename file '''  \n       || name  \n       || '''  to '''  \n       || REPLACE (name, '/lvm2/data/dse/', '/lvm1/data/dse/')  \n       || ''''  \n       || ';'  \n  FROM v$datafile  \n  \n 1.先执行脚本\n \n \n 完备时候的数据\n5345640448\n第一次 增量 256M\n做增量备份数据 283115520\n第二次 增量 256M\n做增量 备份数据 287309824\n第三次 增量 256M\n做增量 备份数据 287309824\n第四次 增量 256M\n做差异 备份数据 1092616192\n第5次 增量 256M\n做差异 备份数据 1361051648\n第6次 增量 256M\n做增量 备份数据 283115520\n第7次 增量256M\n做完备 备份数据 7042236416 (完美数据正确)\n\n使用GSM/GPRS AT指令发送中文短信\n\"这是用java代码控制短信猫发送的中文测试短信 HelloWorld\"\n\n获取短信服务中心号码:\"+8613800280500\"\n获取接收方号码:18190909507\n获取短信发送内容:\"这是用java代码控制短信猫发送的中文测试短信 HelloWorld\"\n进行PDU格式编码:\nAT+CMGW=82\n0891683108200805F011000B918191909005F70008AA448FD9662F7528006A0061007600614EE3780163A7523677ED4FE1732B53D1900176844E2D65876D4B8BD577ED4FE1002000480065006C006C006F0057006F0072006C0064\nAT+CMGW=44\n0891683108200805F011000B918191909005F70008AA1E006A006100760061002000480065006C006C006F0057006F0072006C0064\nAT+CMGW=45\n0891683124893504F211000D91688191909005F70008AA1E006A006100760061002000480065006C006C006F0057006F0072006C0064\nAT+CMGW=38\n0011000B918191909005F70008AA180048006F0077002000610072006500200079006F0075003F\n\n0891683124893504F211000D91685106686525F60008AA0C80d65b50ff0c5403996d6ca1\nAT+CMGW=27\n0891683124893504F211000D91685106686525F60008AA0C80D65B50FF0C5403996D6CA1\n\n获取当前手机字符集 ---获取、设置手机当前字符集 AT+CSCS\n该命令用来读取或设置短消息的格式 -- AT+CMGF\n\n调用AT指令进行短信发送\nAT+CMGF=0\nAT+CSCS=\"GSM\"\nAT+CMGW=26\n0011000B918191909005F70008000C80D65B50FF0C5403996D6CA1\n\t\t\t\t\n发送英文短信\nAT+CMGF=1 (设置发送短消息的格式)\nAT+CMGS=\"18383116629\" (发送短消息)\n\n\nSMSC#\nSender:+8615872792200\nTP_PID:00\nTP_DCS:08\nTP_DCS-popis:Uncompressed Text\nclass:0\nAlphabet:UCS2(16)bit\n\n工作愉快！\nLength:5\n\nSMSC#+8613800280500\nSender:+18190909507\nTP_PID:00\nTP_DCS:08\nTP_DCS-popis:Uncompressed Text\nclass:0\nAlphabet:UCS2(16)bit\n\n工作愉快！\nLength:5\n\n\n\t\t\t\t0011000D91685178722902F00008000A5DE54F5C61095FEBFF01\n\t\t\t\t0011000D91683108401105F00008AA0A5DE54F5C61095FEBFF01\n\t\t\t\t00 1100 0D91683108401105F0 0008AA0A5DE54F5C61095FEBFF01\n0891683108401105F0 1100 0D91685178722902F0 0008000A5DE54F5C61095FEBFF01\n\t\t\t\t0011000D91683108401105F00008000A5DE54F5C61095FEBFF01\n\t\t\t\t0011000D91688191909005F70008000A5DE54F5C61095FEBFF01\n\t\t\t\t0011000D91688191909005F7000800448FD9662F7528006A0061007600614EE3780163A7523677ED4FE1732B53D1900176844E2D65876D4B8BD577ED4FE1002000480065006C006C006F0057006F0072006C0064\n\t\t\t\t0011000D91687126080934F5000800448FD9662F7528006A0061007600614EE3780163A7523677ED4FE1732B53D1900176844E2D65876D4B8BD577ED4FE1002000480065006C006C006F0057006F0072006C0064\n\t\t\t\tAT+CMGW=101\n\t\t\t\t0011000D91687126080934F5000800568FD9662F7528006A0061007600614EE3780163A7523677ED4FE1732B53D1900176844E2D65876D4B8BD577ED4FE1002000480065006C006C006F0057006F0072006C0064002059275409592752294ECA665A54039E21\n\t\t\t\t00 11 00 0B918191909005F70008002200680065006C006C006F00200077006F0072006C0064002C4E16754C4F60597D0021\n\n\n08910011000BA18191909005F700080022680065006C006C006F00200077006F0072006C0064002C00164E4C75604F7D592100\n08910011000BA18191909005F700000044361C0C66ABC160B6310C661BC36036330C2683C160B71B0C6633C36037190C661BC360361A0C261BC360311BAD4C1BDF6A3618CD7C23D772B2180C06\n08910011000D91683108200805F000000044361C0C66ABC160B6310C661BC36036330C2683C160B71B0C6633C36037190C661BC360361A0C261BC360311BAD4C1BDF6A3618CD7C23D772B2180C06\n0011000B918191909005F70008AA2200680065006C006C006F00200077006F0072006C0064002C4E16754C4F60597D0021\n08910011000D91683108200805F000000025E8329BFD06DDDF723699C5ADD3CA311BB77EABD1C6DC3ACD6C8371EBB5DC8D1C02\n0891683108200805F011000B918191909005F70008AA00\n\t\t\t\t0011000B918191909005F70008AA00\n\t\t\t\t0011000B918191909005F70008AA044E2D6587\n\t\t\t\t08910011000D91683108200805F0000000083232AD8CBBD96A00\n\t\t\t\t0011000B918191909005F70008AA2200680065006C006C006F00200077006F0072006C0064002C4E16754C4F60597D0021\n\t\t\t08910011000D91683108200805F000000025E8329BFD06DDDF723699C5ADD3CA311BB77EABD1C6DC3ACD6C8371EBB5DC8D1C02\n\t\t\t\n分析:0891683108200105F0 11            \t     00          \t05  \t\t\t\t\t\t\t\t\t91\t\t\t\t\t\t0180F6     \t\t\t00     \t\t08\t\t\t\t\tAA\t\t\t\t\t\t\t04\t\t\t\t4F60597D\n\t 00                 11        \t\t     00\t\t     \t05   \t\t\t\t\t\t\t\t\t91\t\t\t\t\t\t0180F6\t\t\t\t00\t\t\t08\t\t\t\t\tAA\t\t\t\t\t\t\t04\t\t\t\t4F60597D\n\t 服务中心号码     基本参数(TP-MTI/VFP)  消息基准值\t目标地址数字个数(10086十进制数字个数) 目标地址格式(TON/NPI) \t\t目标地址\t\t 协议标识  用户信息编码方式\t\tSCTS短信服务中心时间戳\t\tUDL用户数据长度   \tUD用户数据\n\t\n目标号码为10086时:\n  \t 0891683108200105F0110005910180F6000800042D4E8765\n\t 0891683108200105F0110005910180F60008AA044F60597D\n目标号码为普通电话号码时:\n\t 0891683108200105F011000B918191909005F70008AA044F60597D\n\t 0891683108200105F011000B918191909005F700080004604F7D59\n\n\t \nhttps://raw.githubusercontent.com/https://raw.githubusercontent.com/https://raw.githubusercontent.com/https://raw.githubusercontent.com/https://raw.githubusercontent.com/\n\n\nCOMMAND   PID USER   FD   TYPE             DEVICE  SIZE/OFF              NODE NAME\ntest    15702 root  cwd    DIR               0,39      8192  1970324836975824 /home/max/product/dseclient/project/Test\ntest    15702 root  rtd    DIR                8,3       244                64 /\ntest    15702 root  txt    REG               0,39   5352488 18858823439618426 /home/max/product/dseclient/project/Test/Debug/test\n /usr/lib/locale/locale-archive\n /usr/java/jdk1.7.0_80/jre/lib/amd64/libsunec.so\n /usr/java/jdk1.7.0_80/jre/lib/amd64/libnet.so\n /usr/java/jdk1.7.0_80/jre/lib/amd64/libnio.so\n /usr/java/jdk1.7.0_80/jre/lib/ext/sunjce_provider.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/sunec.jar\n /usr/java/jdk1.7.0_80/jre/lib/jce.jar\n /usr/java/jdk1.7.0_80/jre/lib/jsse.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/localedata.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/FusionSphere6-6.0.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/wcc_log-1.2.16.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/wcc_crypt-1.2.13.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/wcc_common-1.2.9.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/org.restlet-3.0.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/log4j-1.2.17.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/jackson-databind-2.7.4.jar\n /usr/java/jdk1.7.0_80/jre/lib/rt.jar\n /usr/java/jdk1.7.0_80/jre/lib/amd64/libzip.so\n /usr/lib64/libnss_files-2.17.so\n /usr/java/jdk1.7.0_80/jre/lib/amd64/libjava.so\n /usr/java/jdk1.7.0_80/jre/lib/amd64/libverify.so\n /usr/lib64/libpcre.so.1.2.0\n /usr/lib64/libselinux.so.1\n /usr/lib64/libresolv-2.17.so\n /usr/lib64/libkeyutils.so.1.5\n /usr/lib64/libkrb5support.so.0.1\n /usr/lib64/libfreebl3.so\n /usr/lib64/libk5crypto.so.3.1\n /usr/lib64/libkrb5.so.3.3\n /usr/lib64/libgssapi_krb5.so.2.2\n /opt/dse/lib/libcrypto.so.1.0.1\n /usr/lib64/libcom_err.so.2.1\n /usr/lib64/libcrypt-2.17.so\n /usr/lib64/libcrypto.so.1.0.2k\n /usr/lib64/libssl.so.1.0.2k\n /usr/lib64/libz.so.1.2.7\n /usr/lib64/libc-2.17.so\n /usr/lib64/libgcc_s-4.8.5-20150702.so.1\n /usr/lib64/libm-2.17.so\n /usr/lib64/libstdc++.so.6.0.19\n /usr/lib64/libdl-2.17.so\n /usr/lib64/librt-2.17.so\n /usr/lib64/libpthread-2.17.so\n /opt/dse/lib/libssl.so.6\n /usr/lib64/libuuid.so.1.3.0\n /opt/dse/lib/libboost_system.so.1.59.0\n /opt/dse/lib/libboost_serialization.so.1.59.0\n /opt/dse/lib/libboost_filesystem.so.1.59.0\n /opt/dse/lib/libboost_thread.so.1.59.0\n /opt/dse/lib/libboost_regex.so.1.59.0\n /opt/dse/lib/libboost_date_time.so.1.59.0\n /opt/dse/lib/libboost_chrono.so.1.59.0\n /opt/dse/lib/libboost_log.so.1.59.0\n /opt/dse/lib/libcryptopp.so.5.6\n /usr/lib64/libext2fs.so.2.4\n /opt/dse/lib/libjsonlib.so\n /usr/lib64/libapr-1.so.0.4.8\n /opt/dse/lib/libdsebasicfunction.so.1\n /usr/lib64/mysql/libmysqlclient.so.18.0.0\n /usr/java/jdk1.7.0_80/jre/lib/amd64/server/libjvm.so\n /usr/lib64/ld-2.17.so\n /usr/java/jdk1.7.0_80/jre/lib/ext/slf4j-log4j12-1.7.7.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/slf4j-api-1.7.7.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/jackson-core-2.7.4.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/jackson-annotations-2.7.4.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/gson-2.3.1.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/esdk_fc_neadp_native_java.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/commons-codec-1.9.jar\n /opt/dse/lib/libchardet.so.0\n /usr/java/jdk1.7.0_80/jre/lib/ext/org.restlet.ext.slf4j-3.0.jar\n /tmp/hsperfdata_root/15702\n /dev/pts/4\n /dev/pts/4\n /dev/pts/4\n socket\n socket\n pipe\n pipe\n /usr/java/jdk1.7.0_80/jre/lib/rt.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/commons-codec-1.9.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/esdk_fc_neadp_native_java.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/gson-2.3.1.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/jackson-annotations-2.7.4.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/jackson-core-2.7.4.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/jackson-databind-2.7.4.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/log4j-1.2.17.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/org.restlet-3.0.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/org.restlet.ext.slf4j-3.0.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/slf4j-api-1.7.7.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/slf4j-log4j12-1.7.7.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/wcc_common-1.2.9.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/wcc_crypt-1.2.13.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/wcc_log-1.2.16.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/FusionSphere6-6.0.jar\n /var/log/dse/esdk_log.log\n /usr/java/jdk1.7.0_80/jre/lib/ext/localedata.jar\n socket\n /usr/java/jdk1.7.0_80/jre/lib/jsse.jar\n /dev/random\n /dev/urandom\n /usr/java/jdk1.7.0_80/jre/lib/jce.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/sunec.jar\n /usr/java/jdk1.7.0_80/jre/lib/ext/sunjce_provider.jar\n /dev/random\n\n\n \n \n\n\n\npackage man is not installed\npackage nfs-utils is not installed\npackage nfs-utils-lib is not installed\npackage parted is not installed\npackage patch is not installed\npackage pax is not installed\npackage perl-CGI is not installed\npackage perl-ExtUtils-MakeMaker is not installed\npackage perl-Test-Harness is not installed\npackage perl-Test-Simple is not installed\npackage python-argparse is not installed\npackage redhat-lsb-core is not installed\npackage rpcbind is not installed\npackage rsync is not installed\npackage sendmail is not installed\npackage time is not installed\n\n        cvs is needed by gettext-0.17-18.el6.i686\n        lzma is needed by man-1.6f-39.el6.i686\n        perl-devel is needed by perl-ExtUtils-MakeMaker-0:6.55-144.el6.i686\n        perl-devel is needed by perl-Test-Harness-0:3.17-144.el6.i686\n        perl-devel is needed by perl-Test-Simple-0:0.92-144.el6.i686\n        redhat-lsb-core(x86-32) = 4.0-7.el6.centos is needed by redhat-lsb-4.0-7.el6.centos.i686\n        redhat-lsb-graphics(x86-32) = 4.0-7.el6.centos is needed by redhat-lsb-4.0-7.el6.centos.i686\n        redhat-lsb-printing(x86-32) = 4.0-7.el6.centos is needed by redhat-lsb-4.0-7.el6.centos.i686\n        redhat-lsb-compat(x86-32) = 4.0-7.el6.centos is needed by redhat-lsb-4.0-7.el6.centos.i686\n        libhesiod.so.0 is needed by sendmail-8.14.4-9.el6_8.1.i686\n        procmail is needed by sendmail-8.14.4-9.el6_8.1.i686\n\n\n\ngrep -n '^\\$DSE_MODULE_TYPE' /var/www/dsebackup/system_config.php\ngrep -n \"^DseModuleType\\b\" /var/www/dsebackup/dsebackupcenter/conf/data_struct.py\ngrep -n \"\\bDSE_MODULE_TYPE\\b\" /var/www/dsebackup/static/js/public/public_method.js\n\n\ngrep '^\\$DSE_MODULE_TYPE' /var/www/dsebackup/system_config.php|awk -F '=' '{print $2}'|tr -cd \"[0-9]\"\ngrep -n \"^DseModuleType\\b\" /var/www/dsebackup/dsebackupcenter/conf/data_struct.py|awk -F '=' '{print $2}'|tr -cd \"[0-9]\"\ngrep -n \"\\bDSE_MODULE_TYPE\\b\" /var/www/dsebackup/static/js/public/public_method.js|awk -F '=' '{print $2}'|tr -cd \"[0-9]\"\n\n/bin/bash\n\nselect file_id,tablespace_name from dba_data_files;\n\nclone版本\n\n#同时连接target和辅助实例\n恢复辅助实例的控制文件\nRMAN>run\n{\n#set until  scn 991521;\nrestore clone controlfile from \"/oradb/oraclersync/054d737b-cbf4-438f-86b8-7fd92359e382/1522119627_0.cs\" ;\nsql clone 'alter database mount clone database';\nsql 'alter system archive log current';\n# avoid unnecessary autobackups for structural changes during TSPITR\nsql 'begin dbms_backup_restore.AutoBackupFlag(FALSE); end;';\n}\n\n\n#restore 完备数据\nrun\n{\n# set requested point in time\nset until  scn 991521;\n# set destinations for recovery set and auxiliary set datafiles\nset newname for clone datafile  1 to new;\nset newname for clone datafile  2 to new;\nset newname for clone datafile  3 to new;\n#set newname for clone datafile  4 to \"/opt/dse/oracle/tspitr/%b\";\n#set newname for clone datafile  5 to \"/opt/dse/oracle/tspitr/%b\";\n#set newname for clone datafile  6 to \"/opt/dse/oracle/tspitr/%b\";\nset newname for clone tempfile  1 to new;\nset newname for datafile  5 to  \"/oradb/oracle/oradata/max/ceshi001.dbf\";\n# switch all tempfiles\nswitch clone tempfile all;\n# restore the tablespaces in the recovery set and the auxiliary set\nrestore clone datafile  1,3,2,5 from tag '1522119409';\nswitch clone datafile all;\n}\n\n#recover 操作,restore差异数据,减少scn991467\nrun\n{\n# set requested point in time\n#set until  time \"to_date('2010-7-8 16:23:18','yyyy-mm-dd hh24:mi:ss')\";\nset until scn 991467;\n#set newname for clone datafile  1 to new;\n#set newname for clone datafile  2 to new;\n#set newname for clone datafile  3 to new;\n\nset newname for datafile  5 to  \"/oradb/oracle/oradata/max/ceshi001.dbf\";\n# online the datafiles restored or switched\nsql clone \"alter database datafile  1 online\";\nsql clone \"alter database datafile  3 online\";\nsql clone \"alter database datafile  2 online\";\nsql clone \"alter database datafile  5 online\";\n# recover and open resetlogs\nrecover clone database tablespace  \"CESHI001\", \"SYSTEM\", \"UNDOTBS1\", \"SYSAUX\" from tag '1522119627' ,noredo;\n}\n\nrun\n{\n# set requested point in time\n#set until  time \"to_date('2010-7-8 16:23:18','yyyy-mm-dd hh24:mi:ss')\";\nset until scn 991467;\n#set newname for clone datafile  1 to new;\n#set newname for clone datafile  2 to new;\n#set newname for clone datafile  3 to new;\nset newname for datafile  5 to  \"/oradb/oracle/oradata/max/ceshi001.dbf\";\n# online the datafiles restored or switched\nsql clone \"alter database datafile  1 online\";\nsql clone \"alter database datafile  3 online\";\nsql clone \"alter database datafile  2 online\";\nsql clone \"alter database datafile  5 online\";\n# recover and open resetlogs\nrecover clone database tablespace  \"CESHI001\", \"SYSTEM\", \"UNDOTBS1\", \"SYSAUX\";\n}\n\nrun\n{\nset newname for clone datafile  1 to new;\nset newname for clone datafile  2 to new;\nset newname for clone datafile  3 to new; \nset newname for clone tempfile  1 to new;\nset newname for datafile  5 to  \"/oradb/oracle/oradata/max/ceshi001.dbf\"; \nrecover clone database tablespace  \"CESHI001\", \"SYSTEM\", \"UNDOTBS1\", \"SYSAUX\" until scn=991467;\n}\n\nrun\n{\n# set requested point in time\n#set until  time \"to_date('2010-7-8 16:23:18','yyyy-mm-dd hh24:mi:ss')\";\nset until scn 991467;\n#set newname for clone datafile  1 to new;\n#set newname for clone datafile  2 to new;\n#set newname for clone datafile  3 to new;\nset newname for datafile  5 to  \"/oradb/oracle/oradata/max/ceshi001.dbf\";\n# online the datafiles restored or switched\nsql clone \"alter database datafile  1 online\";\nsql clone \"alter database datafile  3 online\";\nsql clone \"alter database datafile  2 online\";\nsql clone \"alter database datafile  5 online\";\n# recover and open resetlogs\nrecover clone database tablespace  \"CESHI001\", \"SYSTEM\", \"UNDOTBS1\", \"SYSAUX\" from tag '1522119627' delete archivelog;\nalter clone database open resetlogs;\n}\n\n\n\nexp sys/shuyi123 point_in_time_recover=y tablespaces=CESHI001 file=/opt/dse/oracle/tspitr.dmp\nImp user/pwd point_in_time_recover=y file=tspitr.dmp\n\nrun\n{\n# make read only the tablespace that will be exported\nsql clone 'alter tablespace  \"TS1\" read only';\n# create directory for datapump import\nsql \"create or replace directory TSPITR_DIROBJ_DPDIR as ''\n/opt/dse/oracle/tspitr''\";\n# create directory for datapump export\nsql clone \"create or replace directory TSPITR_DIROBJ_DPDIR as ''\n/opt/dse/oracle/tspitr''\";\n}\n\n\n\nrun\n{\n# set requested point in time\n#set until  time \"to_date('2010-7-8 16:23:18','yyyy-mm-dd hh24:mi:ss')\";\n# set destinations for recovery set and auxiliary set datafiles\nset newname for datafile  1 to \"/opt/dse/oracle/tspitr/dse_temp_1\";\nset newname for datafile  2 to \"/opt/dse/oracle/tspitr/dse_temp_2\";\nset newname for datafile  3 to \"/opt/dse/oracle/tspitr/dse_temp_3\";\n#set newname for datafile  4 to \"/opt/dse/oracle/tspitr/%b\";\n#set newname for datafile  5 to \"/opt/dse/oracle/tspitr/%b\";\n#set newname for datafile  6 to \"/opt/dse/oracle/tspitr/%b\";\nset newname for tempfile  1 to \"/opt/dse/oracle/tspitr/dse_temp_temp\";\nset newname for datafile  5 to  \"/oradb/oracle/oradata/max/ceshi001.dbf\";\n# switch all tempfiles\nswitch tempfile all;\n# restore the tablespaces in the recovery set and the auxiliary set\nrestore datafile  1,3,2,5;\nswitch datafile all;\n }\n\n\n\nfrom tag '1521688416'\n\n rman target sys/admin@bl auxiliary=/\n\ndb_name=max\ndb_unique_name=dseaux\ndb_block_size=8192\ndb_cache_size=8388608\ntimed_statistics=TRUE\nshared_pool_size=110M\nlarge_pool_size=1M\ncompatible=11.2.0.4.0\nBackground_dump_dest=/opt/dse/oracle/tspitr/\nCore_dump_dest=/opt/dse/oracle/tspitr/\nUser_dump_dest=/opt/dse/oracle/tspitr/\nControl_files=/opt/dse/oracle/tspitr/control01.ctl\ndb_create_file_dest=/opt/dse/oracle/tspitr/\nlog_file_name_convert=(/opt/dse/oracle/tspitr/);\n\n\n\n\n完备\nbackup incremental level 0 database plus archivelog format '/tmp/dse_max/full#%U';\n增备\nbackup incremental level 1 database plus archivelog format '/tmp/dse_max/inc#%U';\n差异\nbackup incremental level 1 cumulative database plus archivelog format '/tmp/dse_max/inc#%U';\n\nselect * \nfrom (select a.tablespace_name,\n               to_char(a.bytes / 1024 / 1024, '99,999.999') total_bytes,\n               to_char(b.bytes / 1024 / 1024, '99,999.999') free_bytes,\n               to_char(a.bytes / 1024 / 1024 - b.bytes / 1024 / 1024,\n                       '99,999.999') use_bytes,\n               to_char((1 - b.bytes / a.bytes) * 100, '99.99') || '%' use\n    from (select tablespace_name, sum(bytes) bytes\n                  from dba_data_files\n                 group by tablespace_name) a,\n               (select tablespace_name, sum(bytes) bytes\n                  from dba_free_space\n                 group by tablespace_name) b\n         where a.tablespace_name = b.tablespace_name\n        union all\n        select c.tablespace_name,\n               to_char(c.bytes / 1024 / 1024, '99,999.999') total_bytes,\n               to_char(  (c.bytes - d.bytes_used) / 1024 / 1024, '999.999')\n                free_bytes,\n               to_char(d.bytes_used / 1024 / 1024, '99,999.999') bytes,\n               to_char(d.bytes_used * 100 / c.bytes, '99.99') || '%' use\n          from (select tablespace_name, sum(bytes) bytes\n                  from dba_temp_files\n                 group by tablespace_name) c,\n               (select tablespace_name, sum(bytes_cached) bytes_used\n                  from v$temp_extent_pool\n                 group by tablespace_name) d\n         where c.tablespace_name = d.tablespace_name)\n order by tablespace_name;\n\nselect CHECKPOINT_CHANGE# from V$BACKUP_CONTROLFILE_DETAILS where session_key=623 and session_recid=623 and session_stamp=973072306;\n\n\n文件: D:\\Program Files\\Sublime Text 3\\sublime.py\n大小: 37575 字节\n修改时间: 2017年7月27日, 10:07:22\nMD5: 7BA4D5ABB9F324CB5AEDD7B81398A827\nSHA1: C97ACA1C5E04324C42F169199D2C7BB9495E0737\nCRC32: 169D93D8\n\n\n",
+					"file": "/C/Users/Administrator/Desktop/clipboard.txt",
+					"file_size": 20772,
+					"file_write_time": 131678165790404898,
+					"settings":
+					{
+						"buffer_size": 19663,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/code/git/develop_tools/test/file1.txt",
+					"settings":
+					{
+						"buffer_size": 33,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "",
+					"file": "/D/Program Files/Sublime Text 3/Data/Packages/User/SFTP.sublime-settings",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "Package Control Messages\n========================\n\nConvertToUTF8\n-------------\n\n  ConvertToUTF8\n  ==================\n  With this plugin, you can edit and save the files which encodings are not supported by Sublime Text currently, especially for those used by CJK users, such as GB2312, GBK, BIG5, EUC-KR, EUC-JP, etc.\n  \n  Configuration\n  ------------------\n  Please check ConvertToUTF8.sublime-settings file for details. You should save your personal settings in a file named \"ConvertToUTF8.sublime-settings\" under \"User\" folder.\n  \n  * encoding_list: encoding selection list when detection is failed\n  * max_cache_size: maximum encoding cache size, 0 means no cache (default: 100)\n  * max_detect_lines: maximum detection lines, 0 means unlimited (default: 600)\n  * preview_action: converting the file's content to UTF-8 when previewing it (default: false)\n  * default_encoding_on_create: specific the default encoding for newly created file (such as \"GBK\"), empty value means using sublime text's \"default_encoding\" setting (default: '')\n  * convert_on_load: convert the file's content to UTF-8 when it is loaded (default: true)\n  * convert_on_save: convert the file's content from UTF-8 to its original (or specific) encoding when it is saved (default: true)\n  * convert_on_find: convert the text in Find Results view to UTF-8 (default: false)\n  * lazy_reload: save file to a temporary location, and reload it in background when switching to other windows or tabs (default: false)\n  \n  Contact me\n  ------------------\n  Please send me your questions or suggestions: sunlxy (at) yahoo.com or http://weibo.com/seanliang\n  \n  For more information, please visit: https://github.com/seanliang/ConvertToUTF8\n\n\nSublimeGit\n----------\n\n  Welcome to SublimeGit\n  =====================\n  \n  SublimeGit is a full-featured, commercial plugin for integrating\n  git into Sublime Text 2 and 3. To read more about it, or purchase\n  a license, go to https://sublimegit.net.\n  \n  \n  Quickstart\n  ----------\n  Make sure to restart Sublime Text after installing SublimeGit.\n  \n  Run the command \"Git: Status\" to open the status view. This\n  is where you'll spend most of the time when interacting with\n  git through SublimeGit. From here you can stage/unstage files,\n  manage stashes, view diffs, and initiate a commit.\n  \n  Other commands are available in the command palette (cmd+shift+p\n  on OS X, ctrl+shift+p on Windows/Linux). They are all prefixed\n  with \"Git:\" and most of them do exactly what it says on the label.\n  \n  \n  Tutorial\n  --------\n  For the full tutorial, go to:\n  \n      https://docs.sublimegit.net/tutorial.html\n  \n  \n  Trouble Getting Started?\n  ------------------------\n  If you are on windows, or don't usually use git from the command\n  line, there might be some things you'll need to set up. Go here\n  for instructions on how to get set up:\n  \n      https://docs.sublimegit.net/quickstart.html\n  \n  \n  Issues, Questions or Bugs?\n  --------------------------\n  Send a mail to support@sublimegit.net, or report it in the issue\n  tracker:\n  \n      https://github.com/SublimeGit/SublimeGit/issues\n",
+					"settings":
+					{
+						"buffer_size": 3103,
+						"line_ending": "Windows",
+						"name": "Package Control Messages",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"contents": "Local:    (no branch) F:\\code\\git\\MySite\nHead:     nothing committed (yet)\n\nNothing to commit (working directory clean)\n\n# Movement:\n#    r = refresh status\n#    1-5 = jump to section\n#    n = next item, N = next section\n#    p = previous item, P = previous section\n#\n# Staging:\n#    s = stage file/section, S = stage all unstaged files\n#    ctrl+shift+s = stage all unstaged and untracked files\n#    u = unstage file/section, U = unstage all files\n#    backspace = discard file/section, shift+backspace = discard everything\n#\n# Commit:\n#    c = commit, C = commit -a (add unstaged)\n#    ctrl+shift+c = commit --amend (amend previous commit)\n#\n# Other:\n#    i = ignore file, I = ignore pattern\n#    enter = open file\n#    d = view diff\n#\n# Stashes:\n#    a = apply stash, A = pop stash\n#    z = create stash, Z = create stash including untracked files\n#    backspace = discard stash",
+					"settings":
+					{
+						"buffer_size": 881,
+						"line_ending": "Windows",
+						"name": "*git-status*: MySite",
+						"read_only": true,
+						"scratch": true
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 170.0,
+				"last_filter": "git status",
+				"selected_items":
+				[
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"git",
+						"Git: Tag"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: list",
+						"Package Control: List Packages"
+					],
+					[
+						"remo",
+						"Package Control: Remove Channel"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Unmanaged Packages"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"ssjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"Package Control: li",
+						"Package Control: List Unmanaged Packages"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"mdp",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"view",
+						"View: Toggle Menu"
+					],
+					[
+						"packagere",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 444.0
+			},
+			"console":
+			{
+				"height": 488.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/F/code/git/MySite"
+			],
+			"file_history":
+			[
+				"/D/develop_tools/PortableGit/mingw64/etc/gitconfig",
+				"/F/code/git/develop_tools/Sublime Text 3/Data/Index/LOG",
+				"/D/Program Files/Sublime Text 3/Data/Packages/User/Package Control.sublime-settings",
+				"/D/Program Files/Sublime Text 3/Data/Packages/SublimeGit/SublimeGit.sublime-settings",
+				"/D/Program Files/Sublime Text 3/Data/Packages/User/SublimeGit.sublime-settings",
+				"/C/Users/Administrator/Desktop/基本操作/加密解密命令.txt",
+				"/F/code/git/MySite/index.html",
+				"/C/Users/Administrator/Desktop/test.html",
+				"/C/Users/Administrator/Desktop/test.js",
+				"/F/code/SVN/dsebackup/workspace/webbackground/php/login.php",
+				"/F/code/SVN/dsebackup/workspace/webbackground/php/index.php",
+				"/F/code/SVN/dsebackup/workspace/webbackground/php/test.js",
+				"/F/code/SVN/dsebackup/workspace/webbackground/php/test.html",
+				"/C/Users/Administrator/Desktop/clipboard.txt",
+				"/C/Users/Administrator/Desktop/xfs结构.txt",
+				"/F/code/SVN/dsebackup/product/dseserver/sql/dse_db.sql",
+				"/C/Users/Administrator/Desktop/oracle一致性点获取办法.md",
+				"/F/code/SVN/dsebackup/product/dseserver/package/common.sh",
+				"/D/360安全浏览器下载/frp_0.16.1_windows_amd64/frpc_full.ini",
+				"/C/Users/Administrator/Desktop/record/oracle表空间备份方案更改.txt",
+				"/F/code/SVN/dsebackup/workspace/oracle_related/plsql/insert_data.sql",
+				"/F/code/SVN/dsebackup/workspace/oracle_related/plsql/add_datafile_to_tablespace.sql",
+				"/F/code/SVN/dsebackup/workspace/oracle_related/plsql/create_tablespace.sql",
+				"/F/code/SVN/dsebackup/workspace/webfront_end/css/box_model/margin01.html",
+				"/F/code/SVN/dsebackup/workspace/webfront_end/css/position1.html",
+				"/F/code/SVN/dsebackup/workspace/webbackground/php/oci8_test1.php",
+				"/F/code/SVN/dsebackup/workspace/webfront_end/javascript/console.html",
+				"/F/code/SVN/dsebackup/product/dseserver/package/dse_publish_common.sh",
+				"/F/shareftp/dse_release/v2.0/dseserver/dsedb_conn.sh",
+				"/D/Program Files/Sublime Text 3/Data/Packages/MarkdownEditing/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/Desktop/oracle一致性点获取办法.txt",
+				"/C/Users/Administrator/Desktop/test.md",
+				"/C/Users/Administrator/Desktop/plsql/create_user.sql",
+				"/C/Users/Administrator/Desktop/wall/Shadowsocks-4.0.7/gui-config.json",
+				"/D/360安全浏览器下载/aida64extreme/aida64extreme595/aida64.exe",
+				"/F/code/SVN/dsebackup/basicfunction/include/bf_ado_database_op.h",
+				"/D/Program Files/Sublime Text 3/Data/Packages/Theme - Default/Default.sublime-theme",
+				"/D/Program Files/Sublime Text 3/Data/Packages/Package Control/Package Control.sublime-settings"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\": ",
+					"port",
+					"    //\"",
+					"\",",
+					"false",
+					"\":",
+					"confirm_overwrite_newer",
+					"    \"",
+					"confirm_overwrite_newer",
+					"sublime_packages",
+					"wbond",
+					"user",
+					"password",
+					"    \"",
+					"username",
+					"3389",
+					"增量备份55200",
+					"app",
+					"privileges",
+					"all",
+					"tab_label",
+					"menu"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/F/code/git/MySite/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 101,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										101,
+										101
+									]
+								],
+								"settings":
+								{
+									"SL.14.region_keys":
+									[
+									],
+									"incomplete_sync": null,
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/F/code/git/MySite/sftp-config.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1356,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										919,
+										919
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"is_init_dirty_state": false,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 176.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/Administrator/Desktop/clipboard.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 19663,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										19662,
+										19662
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"is_init_dirty_state": true,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 18242.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/F/code/git/develop_tools/test/file1.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 33,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										23,
+										23
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"origin_encoding": "ASCII",
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/D/Program Files/Sublime Text 3/Data/Packages/User/SFTP.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"is_init_dirty_state": true,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3103,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1499,
+										1499
+									]
+								],
+								"settings":
+								{
+									"auto_indent": false,
+									"default_dir": "D:\\Program Files\\Sublime Text 3\\Data\\Packages\\User",
+									"incomplete_sync": null,
+									"is_init_dirty_state": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_width": 2,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 416.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 881,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										119,
+										119
+									]
+								],
+								"settings":
+								{
+									"__vi_external_disable": true,
+									"default_dir": "F:\\code\\git\\MySite",
+									"draw_white_space": "none",
+									"git_repo": "F:\\code\\git\\MySite",
+									"git_status": true,
+									"git_view": "status",
+									"incomplete_sync": null,
+									"is_init_dirty_state": false,
+									"syntax": "Packages/SublimeGit/syntax/SublimeGit Status.tmLanguage",
+									"translate_tabs_to_spaces": false,
+									"word_wrap": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 36.0
+			},
+			"input":
+			{
+				"height": 48.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 302.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git-init":
+			{
+				"height": 180.0
+			},
+			"output.markdown":
+			{
+				"height": 45.0
+			},
+			"output.sftp":
+			{
+				"height": 180.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,810,225,225,1208",
+			"project": "alicloud_site.sublime-project",
+			"replace":
+			{
+				"height": 68.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 301.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 14,
+			"workspace_name": "/F/code/SVN/dsebackup/workspace/sublime_project/alicloud_site.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/F/code/SVN/dsebackup/workspace/sublime_project/alicloud_site.sublime-workspace",
+			"/F/code/SVN/dsebackup/workspace/sublime_project/common.sublime-workspace",
+			"/F/code/SVN/dsebackup/workspace/sublime_project.sublime-workspace"
+		]
+	}
+}

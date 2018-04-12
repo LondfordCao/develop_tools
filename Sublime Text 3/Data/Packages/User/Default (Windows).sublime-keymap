@@ -1,0 +1,11 @@
+[
+	{
+        "keys": ["f1"],
+        "command": "side_bar_files_open_with",
+        "args": {
+            "application": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+            "extensions": ".*",
+            "paths": []
+        }
+    },
+]

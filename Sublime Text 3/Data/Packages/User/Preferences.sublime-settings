@@ -1,0 +1,30 @@
+{
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		"/F/code/SVN/dsebackup/basicfunction/include/**"
+	],
+	"font_size": 18,
+	"ignored_packages":
+	[
+		"Emmet",
+		"Markdown",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"TortoiseSVN",
+		"Vintage"
+	],
+	"theme": "Default.sublime-theme"
+}
